@@ -1,0 +1,7 @@
+{
+  "name" : "valapkg-package-test",
+  "author" : "Aleks Rutins",
+  "website" : "aleks.rutins.com",
+  "dependencies" : [
+  ]
+}

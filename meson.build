@@ -1,0 +1,1 @@
+valapkg_package_test_srcs = ['projects/valapkg-package-test/main.vala']
